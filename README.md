@@ -4,9 +4,6 @@
 
 ![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
 
-Here's the project description in English, in Markdown format:
-
-Project Description: Enhancing Profanity Detection AI Model through Conversation Context Understanding
 # 1. Project Overview
 
 This project aims to overcome the limitations of existing single-sentence-based profanity detection AI models by developing a next-generation AI model that more accurately detects profanity through a deep understanding of conversation flow and context. Our goal is to significantly lower misclassification rates, precisely grasp user intent, and thereby foster a healthier and more pleasant service environment.
